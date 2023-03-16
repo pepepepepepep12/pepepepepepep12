@@ -14,3 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+# pepepepepep12
+## _BIG DATA STUDY
+
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+
+
+
+<img src="https://img.shields.io/badge/Amazon-232F3E?style=flat-square&logo=Amazon&logoColor=white"/></a>
+
+
+
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
+
+
+
+<img src="https://img.shields.io/badge/Rainmeter-19519B?style=flat-square&logo=Rainmeter&logoColor=white"/></a>
