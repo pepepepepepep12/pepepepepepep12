@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 -->
 
 
-# pepepepepep12
-## _BIG DATA STUDY
+#  *JINJU*
+## BIG DATA STUDY
 
 ![header](https://capsule-render.vercel.app/api?type=shark&&color=timeAuto&height=300&section=header&text=BEST%20STUDENT&fontSize=90)
 
