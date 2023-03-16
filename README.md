@@ -18,12 +18,16 @@ Here are some ideas to get you started:
 #  *JINJU*
 ## BIG DATA STUDY
 
-![header](https://capsule-render.vercel.app/api?type=shark&&color=timeAuto&height=300&section=header&text=BEST%20STUDENT&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=shark&&color=timeAuto&height=300&section=header&text=JIN%20JU&fontSize=90)
 
 
 
 #
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Amazon-232F3E?style=flat-square&logo=Amazon&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Rainmeter-19519B?style=flat-square&logo=Rainmeter&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/R-232F3E?style=flat-square&logo=R&logoColor=white"/></a>
+
+
+
+🌱 I’m currently learning Python
+
+💬 Ask me about
